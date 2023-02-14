@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\bin\Debug\net6.0\Without_Central_Number.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\bin\Debug\net6.0\Without_Central_Number.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\bin\Debug\net6.0\Without_Central_Number.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\bin\Debug\net6.0\Without_Central_Number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\bin\Debug\net6.0\Without_Central_Number.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\refint\Without_Central_Number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\Without_Central_Number.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Without_Central_Number\obj\Debug\net6.0\ref\Without_Central_Number.dll
