@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\bin\Debug\net6.0\Double_Multiplicity.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\bin\Debug\net6.0\Double_Multiplicity.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\bin\Debug\net6.0\Double_Multiplicity.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\bin\Debug\net6.0\Double_Multiplicity.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\bin\Debug\net6.0\Double_Multiplicity.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\refint\Double_Multiplicity.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\Double_Multiplicity.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Double_Multiplicity\obj\Debug\net6.0\ref\Double_Multiplicity.dll
