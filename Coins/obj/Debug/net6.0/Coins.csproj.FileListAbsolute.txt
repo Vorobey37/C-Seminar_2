@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\bin\Debug\net6.0\Coins.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\bin\Debug\net6.0\Coins.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\bin\Debug\net6.0\Coins.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\bin\Debug\net6.0\Coins.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\bin\Debug\net6.0\Coins.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\refint\Coins.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\Coins.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_2\Coins\obj\Debug\net6.0\ref\Coins.dll
